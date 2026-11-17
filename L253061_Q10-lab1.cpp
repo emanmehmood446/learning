@@ -116,6 +116,7 @@
 //    } while (choice != 3);
 //
 //    delete[] arr;
+//cout<<"deleted\n";
 //
 //    return 0;
 //}
